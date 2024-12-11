@@ -37,8 +37,22 @@ What are ur weaknesses:
   professionally and personally."
  
  
+ what is OOPS in JAVA?
  
- 
+  OOP, or Object-Oriented Programming, is a programming paradigm used in Java that organizes data 
+  and behavior into objects,and makes code reusable .
+  basically OOPS is the way of looking or perspective , so every thing in our world is a object and 
+  object contains a has part (properties)and a does part(behaviour).
+  there are mainly four pillars :'
+  
+  Encapsulation : is used to bing data and code together.
+  
+  Inheritance : One class can acquire properties and behaviour of another class .
+  
+  abstraction : it is hiding complexity of a system and providing a simple interface,
+  
+  polymorphism : which allows one method to perform different tasks based on the objects passsed it .
+ 				it can be achieved through method overloading and method overriding.
  
  
  
